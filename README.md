@@ -9,4 +9,4 @@ new changes with rebase
 adding text to cause pull conflict
 
 
-changes, chaanges chandges
+changes, 
