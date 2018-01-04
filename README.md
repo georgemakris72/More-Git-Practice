@@ -10,3 +10,8 @@ adding text to cause pull conflict
 
 
 changes, 
+
+
+## Getting Started
+
+To get started just clone repository.
